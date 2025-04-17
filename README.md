@@ -29,6 +29,6 @@ While emissions from coal, oil, and gas can be summed to approximate total CO₂
 > 🔍 The goal is not to recreate past values — but to predict **future emissions** based on inputs we can estimate or simulate.
 
 This enables:
-- Policy simulation (e.g., reducing coal by 30% by 2030)
+- Policy simulation (e.g., reducing coal by 30% by 2034)
 - Economic scenario planning (e.g., how GDP growth affects CO₂)
 - Emissions projections even when granular fuel data is unavailable
